@@ -18,7 +18,7 @@ A minimal floating to-do list app with support for subtasks, built using Python'
 
 The application is published on Docker Hub:
 
- **[Docker Hub – mjanith/todo-widget](https://hub.docker.com/r/mjanith/todo-widget)**
+ **[Docker Hub – mjanith/todo-widget](https://hub.docker.com/r/mjanith/todo-widget/tags)**
 
 ---
 
