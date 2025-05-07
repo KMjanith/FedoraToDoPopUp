@@ -64,3 +64,10 @@ source ~/.bashrc
 starttodo
 ```
 * Then a icon will show in your desktop. you can `right click on it and hold to drag anywhere in your desktop`
+
+# samples
+![the draggable icon](<Screenshot from 2025-05-07 12-44-12.png>)
+![main topic enter page](<Screenshot from 2025-05-07 12-44-22.png>)
+![add a new topic](<Screenshot from 2025-05-07 12-44-34.png>)
+![add details](<Screenshot from 2025-05-07 12-44-45.png>)
+![edit details](<Screenshot from 2025-05-07 12-44-55.png>)
