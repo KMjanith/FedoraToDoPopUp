@@ -7,7 +7,7 @@ RUN apt-get update && \
 
 # Set working dir and copy app
 WORKDIR /app
-COPY todo_widget.py .
+COPY . .
 
 # Default command
-CMD ["python3", "todo_widget.py"]
+CMD ["python3", "main.py"]
